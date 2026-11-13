@@ -57,28 +57,6 @@
 				"都市脑洞"
                  ]
         },
-        {
- "key": "天1天",
-      "name": "天天┆4K",
-      "type": 3,
-      "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_TTian",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
-      "key": "csp_Jpys",
-      "name": "金牌┆4K",
-      "type": 3,
-      "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Jpys",
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
  {
       "key": "电影天堂资源",
       "name": "🍀 | 天堂 | 资源",
